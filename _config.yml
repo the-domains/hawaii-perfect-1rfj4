@@ -12,3 +12,8 @@ color:
     - '#7FB2F0'
     - '#ADD5F7'
 name: Hawaii Perfect
+navigation:
+  - id: 'http://hawaiiperfect.com'
+    url: 'http://hawaiiperfect.com'
+    name: Let us worry about the details for you
+    type: external
